@@ -12,7 +12,7 @@ function App() {
 
         {/* Image Section */}
         <div className="w-auto p-4 motion-preset-slide-left motion-duration-1000">
-          <div className="m-auto motion-preset-slide-left w-96 h-96 rounded-full bg-[url('./../img/cv_photo.jpg')] bg-cover bg-center bg-no-repeat shadow-inner border-2 border-gray-300 hover:scale-105 transition-transform duration-300" />
+          <div className="m-auto motion-preset-slide-left w-96 h-96 rounded-full bg-[url('./../img/personal_photo.webp')] bg-cover bg-center bg-no-repeat shadow-inner border-2 border-gray-300 hover:scale-105 transition-transform duration-300" />
         </div>
       </div>
 
